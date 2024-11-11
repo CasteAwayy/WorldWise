@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "https://test-api-worldwise-kn89gj77d-casteawayys-projects.vercel.app";
+const BASE_URL = "https://test-api-worldwise.vercel.app";
 
 const CitiesContext = createContext();
 
